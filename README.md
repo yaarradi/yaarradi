@@ -40,7 +40,7 @@ Outside the tech world, I’ve led cultural initiatives as Club Head at Estoria,
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | 🛠️ [Line Following Bot](https://github.com/yaarradi/line-following-bot) | IR sensors, PWM, ATmega328 | A basic autonomous bot that follows a black path |
-| 📦 [Real-time Tool Tracking System]([https://github.com/yaarradi/tool-tracker-esp32](https://github.com/flankerlynx/tool-tracking_using_ESP32)) | ESP32, BLE, Firebase, React | BLE-based tool tracking with Firebase backend and live dashboard |
+| 📦 [Real-time Tool Tracking System](https://github.com/flankerlynx/tool-tracking_using_ESP32) | ESP32, BLE, Firebase, React | BLE-based tool tracking with Firebase backend and live dashboard |
 
 > 🔜 **Coming soon:**  
 > - Verilog-based FSM projects  
